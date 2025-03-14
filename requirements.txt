@@ -1,0 +1,11 @@
+**THIS WORK WAS DONE USING PYTHON3**
+The modules that were imported/used are listed below :-
+1. numpy
+2. matplotlib
+3. pymc
+4. arviz
+5. astropy
+6. scipy
+7. pytensor
+8. corner
+9. h5py ( imported but not used )
