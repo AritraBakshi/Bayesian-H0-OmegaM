@@ -17,7 +17,7 @@ This repository applies **Bayesian inference** to estimate cosmological paramete
 3️⃣ Compare results using corner plots & Taylor series approximation  
  
 ## 📊 Results:  
-📌 Corner Plot of z, z², z³, ..., z⁶, D_L (Integral & Taylor) 
+📌 Corner Plot of $H_0$ and $Omega_M$ for redshifts of order $z, z^2, z^3, ..., z^9$  (Integral & Taylor) 
 
 📌 Best-fit Luminosity Distance 
 
